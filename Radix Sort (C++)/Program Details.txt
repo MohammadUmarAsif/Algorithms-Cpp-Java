@@ -1,0 +1,10 @@
+Part 1: Implementation
+----------------------
+(i) Least Significant Digit (LSD)
+(ii) Most Significant Digits (MSD)
+
+Part 2: Analyzing the Complexity
+--------------------------------
+We generate 100 numbers randomly, count the number of key operations of Radix Sort (LSD),
+and then generate 200 numbers, count the number of key operations and so on up to 1000 numbers.
+We repeat for Radix Sort (MSD). The complexity of an algorithm is evaluated using key operations. 

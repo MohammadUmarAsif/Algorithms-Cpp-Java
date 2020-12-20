@@ -1,0 +1,9 @@
+Part 1: Implementation
+(i) FIFO  
+(ii) LRU
+(iii) Optimal page
+ 
+Part 2: Analyzing the Performance
+Assuming number of frames is 3 and length of reference string is 20.
+We show the content of these page frames at different page numbers in the reference string
+and compute the total number of page faults for each of the three page replacement algorithms.

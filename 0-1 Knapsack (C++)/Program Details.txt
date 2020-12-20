@@ -1,0 +1,9 @@
+Part1: Implementation
+(i) Dynamic Programming based algorithm
+(ii) Branch and Bound Search based algorithm
+
+Part2: Analyzing the Complexity
+We run each of the two algorithms for a set of ten randomly generated 0/1 knapsack instances (with n=4) and
+compute the time taken by the selected implementation in each run. We then compute average time taken by each of these two algorithms.
+
+	            

@@ -1,0 +1,7 @@
+Part1: Implementation (Preemptive & Non-preemptive)
+(i) Shortest Job First
+(ii) Priority scheduling
+
+Part2: Analyzing the Complexity
+We draw the Gantt Chart and compute Average Waiting Time and Average Turn Around Time in each case.
+

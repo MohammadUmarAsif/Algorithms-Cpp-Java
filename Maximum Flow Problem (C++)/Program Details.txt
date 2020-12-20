@@ -1,0 +1,7 @@
+Part1: Implementation
+(i) Ford-Fulkerson algorithm
+(ii) Edmond-Karps algorithm
+
+Part2: Analyze the Complexity
+We run each of the two algorithms for a set of ten randomly generated Flow Network instances (with V=6, E=12)
+and compute the time taken by the selected implementation in each run. We then compute average time taken by each of these two algorithms.
